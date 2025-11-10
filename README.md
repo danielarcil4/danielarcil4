@@ -51,10 +51,18 @@ More at: [github.com/danielarcil4](https://github.com/danielarcil4)
 
 ---
 
+### :zap: Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+
+---
+
 ### 📫 Contact  
 
 📧 **ds.arcilag@gmail.com**  
-💼 LinkedIn: *coming soon*
+💼 [LinkedIn](https://www.linkedin.com/in/daniel-santiago-arcila-g%C3%B3mez-2b8634206/)
 
 ---
 

@@ -16,4 +16,5 @@ jobs:
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACCOUNT_NAME: danielarcil4
 
