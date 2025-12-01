@@ -44,21 +44,6 @@ More at: [github.com/danielarcil4](https://github.com/danielarcil4)
 
 ---
 
-### 📊 GitHub Stats  
-
-![danielarcil4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielarcil4&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielarcil4&layout=compact&theme=tokyonight)
-
----
-
-### :zap: Recent Activity
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:last_update_end-->
-
----
-
 ### 📫 Contact  
 
 📧 **ds.arcilag@gmail.com**  
